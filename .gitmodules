@@ -1,0 +1,3 @@
+[submodule "pydate-book"]
+	path = pydate-book
+	url = git@github.com:tker-78/visualization-training.git
